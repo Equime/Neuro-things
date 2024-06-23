@@ -1,5 +1,5 @@
-# Neuro-things/
-Neuroscience tools/
+# Neuro-things
+Neuroscience tools
 
 #Programming/
 R (Rstudio IDE)                                           https://www.r-project.org/
