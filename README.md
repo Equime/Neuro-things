@@ -1,7 +1,7 @@
 # Neuro-things
 Neuroscience tools
 
-#Programming
+#Programming/
 R (Rstudio IDE)                                           https://www.r-project.org/
 Python                                                    https://www.python.org/
 Matlab                                                    https://www.mathworks.com/products/matlab.html
