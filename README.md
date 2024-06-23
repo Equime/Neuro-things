@@ -7,7 +7,7 @@ Neuroscience tools
 •	Matlab                                                  https://www.mathworks.com/products/matlab.html
 •	GNU Octave (free equivalent of MATLAB)                  https://octave.org/
 
-# operating system
+# Operating system
 •	Linux
 •	Ubuntu (Kubuntu or Gubuntu)
 •	Neurodebian                                              https://neuro.debian.net/
